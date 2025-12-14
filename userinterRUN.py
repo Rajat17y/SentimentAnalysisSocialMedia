@@ -11,7 +11,7 @@ from googleapiclient.discovery import build
 import plotly.express as px
 import plotly.graph_objects as go
 
-api_key = 'AIzaSyAuP6GJ2rE7y8D4KfQeqTK_bjZS5qNn6x4'
+api_key = ''
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
